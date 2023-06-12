@@ -52,8 +52,18 @@ p {
     top: 10px;
     left: 10px;
     padding: 10px 20px;
-    background-color: #ff0000;
+    border-radius: 20px;
+    background-color: #460000;
     color: #ffffff;
     text-decoration: none;
     font-weight: bold;
+  }
+  
+  .carrinho {
+    float: right;
+    width: 200px;
+    background-color: #d04beb;
+    padding: 10px;
+    border-radius: 10px;
+    
   }
